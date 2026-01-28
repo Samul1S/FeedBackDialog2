@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FeedBackDialog2</string>
+    <string name="company_logo">Company logo</string>
+    <string name="feedback_title">Customer Feedback Form</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone number</string>
+    <string name="comment">Comment</string>
+
+    <string name="first_name_hint">Enter first name</string>
+    <string name="last_name_hint">Enter last name</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="comment_hint">Write your feedback</string>
+
+    <string name="send">Send</string>
+    <string name="reset">Reset</string>
+    <string name="sent_ok">Feedback sent. Thank you!</string>
+</resources>
